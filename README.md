@@ -10,6 +10,7 @@
 ----------
 ## TECH STACK :
 
+- **NextJS** 🌐
 - **Web3.js** 🌐
 - **Ethers.js** 🔗
 - **Hardhat** 🔨
