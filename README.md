@@ -10,9 +10,12 @@
 ----------
 ## TECH STACK :
 
-**React**
-**Hardhat**
-**NodeJs**
+- **Web3.js** 🌐
+- **Ethers.js** 🔗
+- **Hardhat** 🔨
+- **React** 🛠️
+- **Node.js** ⚙️  - (other service)
+
 
 ---------
 
